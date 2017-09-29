@@ -1,0 +1,19 @@
+h1 { color: darkblue; 
+	 text-decoration: underline;
+	 font-size: 26pt;
+	 }
+	 
+li {  display: inline-block 
+	}
+
+body {
+	background: lightskyblue;
+	}
+	
+h2 {
+	font-family: 'Oxyen', sans-serif; 
+	color: darkblue;
+	font-size: 24pt;
+	text-align: center;
+}
+
