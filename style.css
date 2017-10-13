@@ -70,6 +70,16 @@ h5 {
 	text-align: center;
 }
 
+
+h8 {
+	font-family: "Braggadocio";
+	text-decoration: underline;
+	color: #0000CD;
+	font-size: 54pt;
+	text-align: center;
+}
+
+
 h10 IMG {
 	display: block;
     margin: auto;
@@ -82,6 +92,13 @@ h11 IMG {
     margin: auto;
     width: 20%;
     float: right;
+}
+
+h9 {
+	font-family: "Braggadocio";
+	color: black;
+	font-size: 19pt;
+	text-align: center;
 }
 
 h12 {
@@ -104,3 +121,10 @@ h7 img {
     border:3px solid #021a40;
 }
 
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
